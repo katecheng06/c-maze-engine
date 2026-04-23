@@ -1,0 +1,10 @@
+# Compiled Binaries
+maze_engine
+maze_engine.exe
+*.o
+*.out
+
+# IDE Specific (The ones you asked about)
+.idea/
+cmake-build-debug/
+*.xml
